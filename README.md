@@ -30,11 +30,11 @@ This visualizations tells us which aircraft type has the highest fatality rate. 
 
 **Operator-Risk**
 This analysis shows the top 5 operators involved in the highest fatalities. This is crucial for our company when looking for operators as we will look for clients whose safety records are not of risk, ensuring they are not a liability.
-![Highest-fatality-rate-by-operator](Visualizations/Operator by fatality rate.png)
+![highest fatality by operator](image-1.png)
 
 **High-risk-countries**
 This analysis shows the country that are at high risk of having accidents. This is important cause it tells the company which countries are safer and which countries need a greater safety approach when travelling there.
-![high-risk-countries](Visualizations/high-risk countries.png)
+![High-risk countries](image-2.png)
 
 ## Recommendation
 - **Safe-Aircraft-Purchase:**

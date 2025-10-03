@@ -26,15 +26,15 @@ Our company is launching a new division that is focused on buying and operating 
 ## Visualizations and Findings
 - **Aircraft-type-risk**
 This visualizations tells us which aircraft type has the highest fatality rate. By identifying this, this report gives the company the necessary data for the company to make the safest decision that will benefit both the comapny and he clients
-- ![Highest fatality by aircraft type](image.png)
+- ![Highest fatality by aircraft type](data/image.png)
 
 **Operator-Risk**
 This analysis shows the top operators involved in the highest fatalities. This is crucial for our company when looking for operators as we will look for clients whose safety records are not of risk, ensuring they are not a liability.
-![highest fatality by operator](image-1.png)
+![highest fatality by operator](data/image-1.png)
 
 **High-risk-countries**
 This analysis shows the country that are at high risk of having accidents. This is important cause it tells the company which countries are safer and which countries need a greater safety approach when travelling there.
-![High-risk countries](image-2.png)
+![High-risk countries](data/image-2.png)
 
 ## Recommendation
 - **Safe-Aircraft-Purchase:**

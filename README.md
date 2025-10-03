@@ -19,9 +19,9 @@ Our company is launching a new division that is focused on buying and operating 
 
 ## Libraries and Tech used
 - **Python 3.11**
-- (`Pandas`'https://pandas.pydata.org/')
-- (`matplotlib` 'https://matplotlib.org/')
-- (`seaborn` 'https://seaborn.pydata.org/')
+- `Pandas`(https://pandas.pydata.org/)
+- `matplotlib` (https://matplotlib.org/)
+- `seaborn` (https://seaborn.pydata.org/)
 
 ## Visualizations and Findings
 - **Aircraft-type-risk**

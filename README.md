@@ -19,14 +19,14 @@ Our company is launching a new division that is focused on buying and operating 
 
 ## Libraries and Tech used
 - **Python 3.11**
-- `Pandas`['https://pandas.pydata.org/']
-- `matplotlib` ['https://matplotlib.org/']
-- `seaborn` ['https://seaborn.pydata.org/']
+- `Pandas`('https://pandas.pydata.org/')
+- `matplotlib` ('https://matplotlib.org/')
+- `seaborn` ('https://seaborn.pydata.org/')
 
 ## Visualizations and Findings
 - **Aircraft-type-risk**
 This visualizations tells us which aircraft type has the highest fatality rate. By identifying this, this report gives the company the necessary data for the company to make the safest decision that will benefit both the comapny and he clients
-- ![Aircarft-type-by-Highest-fatality](Visualizations/Aircraft type by fatality.png)
+- ![Highest fatality by aircraft type](image.png)
 
 **Operator-Risk**
 This analysis shows the top 5 operators involved in the highest fatalities. This is crucial for our company when looking for operators as we will look for clients whose safety records are not of risk, ensuring they are not a liability.

@@ -48,3 +48,6 @@ We should look for more safety measures when operating in countries that are at 
 
 - ## Conclusion
 This analysis shows us that the aviation industry is a risky endeavour. We have decided to exlude the Douglas C-47A (DC-3) as it has the biggest risk to our company. The high-risk countries show areas that need closer examination like the USA, which may have alot of operational activity, hence the rise in accident rates. Finally the operator analysis gives us a safety benchmark that gives direction to our company in which operators are suited.
+
+## Tableau Dashboard Link
+[Aviation-Accident-Dashboard](https://public.tableau.com/app/profile/fiona.mburu/viz/Aviation-accidents/Dashboard1)
